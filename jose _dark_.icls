@@ -3,7 +3,7 @@
     <property name="created">2017-01-24T11:10:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-01-24T13:48:29</property>
+    <property name="modified">2017-01-24T16:20:45</property>
     <property name="originalScheme">jose (black)</property>
   </metaInfo>
   <font>
@@ -14,9 +14,16 @@
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
     <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
   <colors>
-    <option name="CARET_COLOR" value="ffffff" />
+    <option name="CARET_COLOR" value="dbd4c1" />
     <option name="CARET_ROW_COLOR" value="73642" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="GUTTER_BACKGROUND" value="252d" />
@@ -26,7 +33,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="586e75" />
     <option name="SELECTED_INDENT_GUIDE" value="586e75" />
     <option name="SELECTED_TEARLINE_COLOR" value="e0e0b0" />
-    <option name="SELECTION_BACKGROUND" value="741d49" />
+    <option name="SELECTION_BACKGROUND" value="41112f" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="dddddd" />
   </colors>
@@ -213,7 +220,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="cc8641" />
+        <option name="FOREGROUND" value="b87f5c" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -236,7 +243,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="a89f3b" />
+        <option name="FOREGROUND" value="a19550" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -368,7 +375,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="fdf6e3" />
+        <option name="FOREGROUND" value="dbd4c1" />
         <option name="BACKGROUND" value="2b36" />
       </value>
     </option>
